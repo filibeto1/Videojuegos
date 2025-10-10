@@ -4,7 +4,7 @@
 Aquí va la descripción de tu actividad 1
 
 ## 📄 Documento Principal
-
+[📥 Ver Actividad 1 en PDF](/actividades/actividad-1/Actividad1.pdf)
 
 ## 🎯 Objetivos
 - Objetivo 1
