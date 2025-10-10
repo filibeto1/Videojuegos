@@ -4,7 +4,7 @@
 Tutorial seguido de movimientos hacia todas las direcciones
 
 ## 📄 Documento Principal
-[📥 Ver Actividad 1 en PDF](/actividades/actividad-1/Actividad 1.pdf)
+[📥 Ver Actividad 1 en PDF](/actividades/actividad-1/Actividad1.pdf)
 
 ## 🎯 Objetivos
 - Hacer que el personaje se mueva
