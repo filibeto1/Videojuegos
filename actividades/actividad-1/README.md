@@ -1,15 +1,15 @@
 # Actividad 1 - Creación de Videojuegos
 
 ## 📋 Descripción
-Aquí va la descripción de tu actividad 1
+Tutorial seguido de movimientos hacia todas las direcciones
 
 ## 📄 Documento Principal
-[📥 Ver Actividad 1 en PDF](/actividades/actividad-1/Actividad1.pdf)
+[📥 Ver Actividad 1 en PDF](/actividades/actividad-1/Actividad 1.pdf)
 
 ## 🎯 Objetivos
-- Objetivo 1
-- Objetivo 2
+- Hacer que el personaje se mueva
+
 
 ## ✅ Entregables
 - [ ] Tarea completa
-- [ ] Código fuente
+
