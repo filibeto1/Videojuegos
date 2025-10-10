@@ -4,7 +4,7 @@
 
 | Fecha | Actividad |
 |-------|-----------|
-| Lunes 22 de septiembre | [Actividad 0  Creación de Videojuegos](/actividades/actividad-0) |
+|  | [Actividad 0  Creación de Videojuegos](/actividades/actividad-0) |
 | Lunes 29 de septiembre | [Actividad 1  Creación de Videojuegos](/actividades/actividad-1) |
 | Lunes 6 de octubre | [Actividad 2  Creación de Videojuegos](/actividades/actividad-2) |
 | Lunes 13 de octubre | [Actividad 3  Creación de Videojuegos](/actividades/actividad-3) |
