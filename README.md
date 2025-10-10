@@ -1,4 +1,3 @@
-# Videojuegos
 # Mis Actividades  🎓
 
 ## 📅 Actividades - Creación de Videojuegos
