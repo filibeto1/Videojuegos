@@ -14,6 +14,6 @@
 ## 📅 Tutoriales - Creación de Videojuegos
 | Fecha | Actividad |
 |-------|-----------|
-| Lunes 29 de septiembre | [Actividad 1  Creación de Videojuegos](/tutoriales/tutorial1) |
-| Lunes 6 de octubre | [Actividad 2  Creación de Videojuegos](/tutoriales/tutoriales2) |
-| Lunes 13 de octubre | [Actividad 3  Creación de Videojuegos](/tutoriales/tutorial3) |
+| Septiembre | [Actividad 1  Creación de Videojuegos](/tutoriales/tutorial1) |
+| Jueves 16 de Octubre | [Actividad 2  Creación de Videojuegos](/tutoriales/tutoriales2) |
+| Jueves 16 de Octubre | [Actividad 3  Creación de Videojuegos](/tutoriales/tutorial3) |
