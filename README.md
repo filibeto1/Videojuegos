@@ -19,3 +19,4 @@
 | Jueves 16 de Octubre | [Tutorial 3  Creación de Videojuegos](/tutoriales/tutorial3) |
 | Jueves 23 de Octubre | [Tutorial 4  Creación de Videojuegos](/tutoriales/tutorial4) |
 | Jueves 23 de Octubre | [Tutorial 5  Creación de Videojuegos](/tutoriales/tutorial5) |
+| Jueves 30 de Octubre | [Tutorial 6  Creación de Videojuegos](/tutoriales/tutorial6) |
